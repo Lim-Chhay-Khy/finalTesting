@@ -42,7 +42,7 @@ def best_word(word_list):
     """
     word_list is a list of words.
 
-    Return the word worth the most points.
+    Return the word worth the most points.igiggiig
     """
     current_best_word = ""
     best_points = 0
